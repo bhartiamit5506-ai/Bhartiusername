@@ -2,4 +2,4 @@
 this is my first repository
 
 <br>
-Author: Amit Bharti
+Author: Amit 
